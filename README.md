@@ -1,2 +1,2 @@
 # Python
-What's Your Name?
+Hackerrank Solutions
